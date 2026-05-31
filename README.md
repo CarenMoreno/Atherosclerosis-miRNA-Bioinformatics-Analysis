@@ -100,7 +100,6 @@ ABCA1 was identified as the most biologically relevant target because of its cen
 ## Results
 
 ### Venn Diagram
-![Venn Diagram](figures/venn_diagram.png)
 <p align="center">
   <img src="figures/venn_diagram.png?raw=true" width="600" alt="Diagrama de Venn">
 </p>
@@ -111,8 +110,6 @@ ABCA1 was identified as the most biologically relevant target because of its cen
 </p>
 
 ### KEGG Pathways
-![KEGG Pathways](figures/reactome_pathways.png)
-
 <p align="center">
   <img src="figures/kegg_pathways.png?raw=true" width="600" alt="KEGG Pathways">
 </p>
