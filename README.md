@@ -150,7 +150,9 @@ Insert image here
 ## Author
 
 Caren Moreno
+
 MSc in Bioinformatics
+
 Universidad Internacional de La Rioja (UNIR)
 
 ---
