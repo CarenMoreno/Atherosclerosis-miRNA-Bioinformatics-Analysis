@@ -1,4 +1,4 @@
-# Atherosclerosis-miRNA-Bioinformatics-Analysis
+# Atherosclerosis miRNA Bioinformatics Analysis
 Bioinformatics analysis of miRNA target genes, functional annotation, and pathway enrichment associated with cholesterol metabolism and atherosclerosis.
 
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Analysis-blue)
