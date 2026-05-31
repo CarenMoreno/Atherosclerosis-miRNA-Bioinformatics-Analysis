@@ -55,30 +55,6 @@ Biological Interpretation
 ## Repository Structure
 
 ```text
-atherosclerosis-mirna-bioinformatics-analysis
-│
-├── README.md
-│
-├── data/
-│   ├── miR33a_targets.txt
-│   ├── miR33b_targets.txt
-│   ├── miR144_targets.txt
-│   ├── miR758_targets.txt
-│   └── miR106b_targets.txt
-│
-├── figures/
-│   ├── venn_diagram.png
-│   ├── go_biological_process.png
-│   ├── kegg_pathways.png
-│   └── reactome_pathways.png
-│
-├── report/
-│   └── Activity1_miRNA_Target_Analysis.pdf
-│
-└── docs/
-    └── references.md
-```
-```text
 atherosclerosis-miRNA-bioinformatics-analysis
 │
 ├── README.md
@@ -107,7 +83,6 @@ atherosclerosis-miRNA-bioinformatics-analysis
 └── docs/
     └── references.md
 ```
-
 ---
 
 ## Common Target Genes
