@@ -101,7 +101,7 @@ ABCA1 was identified as the most biologically relevant target because of its cen
 
 ### Venn Diagram
 <p align="center">
-  <img src="figures/venn_diagram.png?raw=true" width="600" alt="Diagrama de Venn">
+  <img src="figures/venn_diagram.png?raw=true" width="550" alt="Diagrama de Venn">
 </p>
 
 ### GO Biological Process
@@ -116,7 +116,7 @@ ABCA1 was identified as the most biologically relevant target because of its cen
 
 ### Reactome Pathways
 <p align="center">
-  <img src="figures/reactome_pathways.png?raw=true" width="600" alt="Reactome Pathways">
+  <img src="figures/reactome_pathways.png?raw=true" width="650" alt="Reactome Pathways">
 </p>
 
 ---
