@@ -106,19 +106,21 @@ ABCA1 was identified as the most biologically relevant target because of its cen
 </p>
 
 ### GO Biological Process
-
-Insert image here
+<p align="center">
+  <img src="figures/go_biological_process.png?raw=true" width="600" alt="GO Biological Process">
+</p>
 
 ### KEGG Pathways
 ![KEGG Pathways](figures/reactome_pathways.png)
 
 <p align="center">
-  <img src="figures/reactome_pathways.png?raw=true" width="600" alt="KEGG Pathways">
+  <img src="figures/kegg_pathways.png?raw=true" width="600" alt="KEGG Pathways">
 </p>
 
 ### Reactome Pathways
-
-Insert image here
+<p align="center">
+  <img src="figures/reactome_pathways.png?raw=true" width="600" alt="Reactome Pathways">
+</p>
 
 ---
 
