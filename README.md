@@ -100,8 +100,7 @@ ABCA1 was identified as the most biologically relevant target because of its cen
 ## Results
 
 ### Venn Diagram
-
-Insert image here
+![Venn Diagram](figures/ venn_diagram.png)
 
 ### GO Biological Process
 
