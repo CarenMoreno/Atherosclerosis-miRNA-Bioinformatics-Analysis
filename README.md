@@ -111,8 +111,9 @@ Insert image here
 
 ### KEGG Pathways
 ![KEGG Pathways](figures/reactome_pathways.png)
+
 <p align="center">
-  <img src="figures/reactome_pathways.png?raw=true" width="600" alt="Diagrama de Venn">
+  <img src="figures/reactome_pathways.png?raw=true" width="600" alt="KEGG Pathways">
 </p>
 
 ### Reactome Pathways
