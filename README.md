@@ -157,11 +157,9 @@ ABCA1 was identified as the most biologically relevant target because of its cen
 
 ## Author
 
-Caren Moreno
-
-MSc in Bioinformatics
-
-Universidad Internacional de La Rioja (UNIR)
+Caren Moreno 
+MSc in Bioinformatics 
+Universidad Internacional de La Rioja (UNIR) 
 
 ---
 
