@@ -55,7 +55,10 @@ Biological Interpretation
 ## Repository Structure
 
 ```text
-.
+atherosclerosis-mirna-bioinformatics-analysis
+│
+├── README.md
+│
 ├── data/
 │   ├── miR33a_targets.txt
 │   ├── miR33b_targets.txt
@@ -72,7 +75,8 @@ Biological Interpretation
 ├── report/
 │   └── Activity1_miRNA_Target_Analysis.pdf
 │
-└── README.md
+└── docs/
+    └── references.md
 ```
 
 ---
