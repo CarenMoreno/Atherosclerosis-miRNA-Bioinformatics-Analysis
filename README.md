@@ -110,8 +110,10 @@ ABCA1 was identified as the most biologically relevant target because of its cen
 Insert image here
 
 ### KEGG Pathways
-
-Insert image here
+![KEGG Pathways](figures/reactome_pathways.png)
+<p align="center">
+  <img src="figures/reactome_pathways.png?raw=true" width="600" alt="Diagrama de Venn">
+</p>
 
 ### Reactome Pathways
 
