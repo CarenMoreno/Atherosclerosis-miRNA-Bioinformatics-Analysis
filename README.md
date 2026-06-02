@@ -14,11 +14,11 @@ The analysis integrates target prediction, identification of common target genes
 
 ### Analyzed miRNAs
 
-* hsa-miR-33a-5p
-* hsa-miR-33b-5p
-* hsa-miR-144-3p
-* hsa-miR-758-3p
-* hsa-miR-106b-5p
+* *hsa-miR-33a-5p*
+* *hsa-miR-33b-5p*
+* *hsa-miR-144-3p*
+* *hsa-miR-758-3p*
+* *hsa-miR-106b-5p*
 
 ---
 
@@ -158,7 +158,9 @@ ABCA1 was identified as the most biologically relevant target because of its cen
 ## Author
 
 Caren Moreno 
+
 MSc in Bioinformatics 
+
 Universidad Internacional de La Rioja (UNIR) 
 
 ---
